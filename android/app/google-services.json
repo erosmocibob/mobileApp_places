@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "587470303919",
+    "firebase_url": "https://places-zavrsni.firebaseio.com",
+    "project_id": "places-zavrsni",
+    "storage_bucket": "places-zavrsni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587470303919:android:710b60f3b9bb8b5aba9a5a",
+        "android_client_info": {
+          "package_name": "com.example.places_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587470303919-8gvcfm227u1he223b94umnjf24e8e0qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0vIopIbnRlX7wmwH8W5IWMphiUYUwaAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587470303919-8gvcfm227u1he223b94umnjf24e8e0qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
